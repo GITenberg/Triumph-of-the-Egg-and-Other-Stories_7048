@@ -1,0 +1,29 @@
+_repo: Triumph-of-the-Egg-and-Other-Stories_7048
+creator:
+  author:
+    agent_name: Anderson, Sherwood
+    alias: Fever, Buck
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '231'
+    url: http://www.gutenberg.org/2009/agents/231
+    wikipedia: http://en.wikipedia.org/wiki/Sherwood_Anderson
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ohio -- Social life and customs -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+tableOfContents: The dumb man -- I want to know why -- Seeds -- The other woman --
+  The egg -- Unlighted lamps -- Senility -- The man in the brown coat -- Brothers
+  -- The door of the trap -- The New Englander -- War -- Motherhood -- Out of nowhere
+  into nothing -- The man with the trumpet.
+title: Triumph of the Egg, and Other Stories
+url: http://www.gutenberg.org/ebooks/7048
