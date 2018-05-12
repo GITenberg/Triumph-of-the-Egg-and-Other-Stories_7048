@@ -1,4 +1,8 @@
 _repo: Triumph-of-the-Egg-and-Other-Stories_7048
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anderson, Sherwood
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/231
     wikipedia: http://en.wikipedia.org/wiki/Sherwood_Anderson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7048#Triumph-of-the-Egg-and-Other-Stories
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
